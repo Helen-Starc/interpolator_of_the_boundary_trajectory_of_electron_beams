@@ -1,0 +1,2 @@
+# interpolator_of_the_boundary_trajectory_of_electron_beams
+Interpolator of the boundary trajectory of electron beams
